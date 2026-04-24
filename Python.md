@@ -1,20 +1,23 @@
 # Python Működése ( Alap programozás )
 
 ## 1. Változók
-### 
-
+### A változó egy névvel ellátott "doboz" , amiben egy adatot tárolunk , ennek értéket ( = ) lehet adni
+## Alap Adattípusok
+- `int` → egész szám (pl.: 2, 8, 15)
+- `float` → tizedes szám (pl.: 3.14)
+- `string` → szöveg (pl.: "hello")
 
 
 
 ## 2. Operátorok
 ### Az operátorok olyan "jelek" , amikkel műveleteket végzünk. 
 ## Matematikai operátorok
-### Összeadás(+)
-### Kivonás(-)
-### szorzás(*)
-### osztás(/)
-### egész osztás(//)
-### maradékos osztás(%)
+- ### Összeadás(+)
+- ### Kivonás(-)
+- ### szorzás(*)
+- ### osztás(/)
+- ### egész osztás(//)
+- ### maradékos osztás(%)
 
 ## Pl.:
 ```python
