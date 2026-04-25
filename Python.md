@@ -8,13 +8,15 @@ A valóságban a Pythont szinte minden menő területen használják.
  de még fontosabb az AI és az adatfeldolgozás, ahol kifejezetten erős.
 
 
-### [Python web]: https://www.python.org/
-
+### [Python web]: https://www.python.org/ 
+### [Trello web]: https://www.trello.com/ 
+## Köszönöm a figyelmet
 #### Ez az alja
 💡
 [Ugorj a tetejére](#ez-a-teteje)
 
-### [ Trello web]: https://www.trello.com/ 
+
+
 
 
 
