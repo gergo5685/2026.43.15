@@ -11,16 +11,16 @@
 
 
 ## 2. Operátorok
-### Az operátorok olyan "jelek" , amikkel műveleteket végzünk. 
-## Matematikai operátorok
-### Összeadás(+)
-### Kivonás(-)
-### szorzás(*)
-### osztás(/)
-### egész osztás(//)
-### maradékos osztás(%)
+#### Az operátorok olyan "jelek" , amikkel műveleteket végzünk. 
+### Matematikai operátorok
+- Összeadás(+)
+- Kivonás(-)
+- szorzás(*)
+- osztás(/)
+- egész osztás(//)
+- maradékos osztás(%)
 
-## Pl.:
+### Pl.:
 ```python
 a = 10 + 5
 b = 10 - 3
