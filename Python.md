@@ -9,16 +9,12 @@
 - `bool` &rarr; logikai (pl.: True vagy False)
 ---
 
-### A Bemenet (`input`) működését könnyű megérteni , ez egy adatot kérbe a félhasználótól. Ez mindig egy **string** adattípusú értékkel tér vissza.
+### A Bemenet (`input`) működését könnyű megérteni , ez egy adatot kérbe a félhasználótól. Ez mindig egy `string` adattípusú értékkel tér vissza.
 ```python
 nev = input("Add meg a neved")
 print(nev)
 ```
 
-
-
-
-<<<<<<< Updated upstream
 
 ## 2. Operátorok
 #### Az operátorok olyan "jelek" , amikkel műveleteket végzünk. 
@@ -30,7 +26,6 @@ print(nev)
 - egész osztás(//)
 - maradékos osztás(%)
 
-=======
 ## 2. Operátorok
 ### Az operátorok olyan "jelek" , amikkel műveleteket végzünk. 
 ## Matematikai operátorok
