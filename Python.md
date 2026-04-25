@@ -14,21 +14,11 @@
 nev = input("Add meg a neved")
 print(nev)
 ```
-
+---
 
 ## 2. Operátorok
 #### Az operátorok olyan "jelek" , amikkel műveleteket végzünk. 
 ### Matematikai operátorok
-- Összeadás(+)
-- Kivonás(-)
-- szorzás(*)
-- osztás(/)
-- egész osztás(//)
-- maradékos osztás(%)
-
-## 2. Operátorok
-### Az operátorok olyan "jelek" , amikkel műveleteket végzünk. 
-## Matematikai operátorok
 - Összeadás(+)
 - Kivonás(-)
 - szorzás(*)
@@ -45,6 +35,8 @@ d = 10 / 9
 e = 10 // 10
 f = 10 % 5
 ```
+---
+
 ## 3. Feltétel Vizsgálat ( If-Elif-Else )
 ### A program eldönti hogy mit csináljon a neki megadott feltételek szerint.
 ``` python 
@@ -56,6 +48,9 @@ else:
     print("Még kiskorú vagy")
 ```
 ### Több ága is lehet amennyiben használjuk az `elif` parancsot , ezt a parancsot ha `if` után használjuk akkor elöszőr megvizsgálja hogy az `if` feltétel teljesül-e , utánna megnézi az `elif` agákat és hogy ha egyiksem teljesül akkor az `else` parancs fog lefutni.
+
+---
+
 ### Pl.:
 ``` python
 pontszam = 75 
