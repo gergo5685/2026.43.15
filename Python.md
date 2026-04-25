@@ -41,7 +41,6 @@ print(nev)
 - egész osztás(//)
 - maradékos osztás(%)
 
->>>>>>> Stashed changes
 ### Pl.:
 ```python
 a = 10 + 5
