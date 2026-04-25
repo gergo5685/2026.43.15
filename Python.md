@@ -43,8 +43,7 @@ A valóságban a Pythont szinte minden menő területen használják.
 💡
 [Ugorj a tetejére](#ez-a-teteje)
 
-
-
+trello:
 
 
 
