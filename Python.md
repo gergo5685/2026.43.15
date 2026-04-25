@@ -1,6 +1,6 @@
 
 
-Az előző részekben már láthattátok az alapokat, de az igazi „varázslat”
+### Az előző részekben már láthattátok az alapokat, de az igazi „varázslat”
  itt kezdődik. A Python nemcsak egyszerű, hanem rengeteg kész könyvtár 
  is van hozzá, így nem kell mindent nulláról megírni (pl. math, random).
 A valóságban a Pythont szinte minden menő területen használják.
@@ -14,7 +14,7 @@ A valóságban a Pythont szinte minden menő területen használják.
 💡
 [Ugorj a tetejére](#ez-a-teteje)
 
-trello:
+### [ Trello web]: https://www.trello.com/ 
 
 
 
